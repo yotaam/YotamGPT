@@ -1,0 +1,303 @@
+Prompt: Once upon a time, in a land far, far away, there lived a
+Temperature: 0.5
+Time Taken: 64466 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a man, a man who had been born of a father, and who had been born of a mother. And the father of
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+Temperature: 0.75
+Time Taken: 49982 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a child. And the children were among the trees, and the trees were the trees. And I said, "Here, look
+----------------------------------------
+Prompt: To be or not to be, that is the
+Temperature: 0.5
+Time Taken: 37982 ms
+Generated Text:
+To be or not to be, that is the point of the debate. It is not about whether the two men are the same person, or whether they are the same person
+----------------------------------------
+Prompt: To be or not to be, that is the
+Temperature: 0.75
+Time Taken: 42402 ms
+Generated Text:
+To be or not to be, that is the word of God, and is not a truth; it is the knowledge of God that guides the conscience. We know that God
+----------------------------------------
+Prompt: The capital of France is
+Temperature: 0.5
+Time Taken: 35560 ms
+Generated Text:
+The capital of France is also home to the country's biggest economy, and the country's biggest export market, which is home to more than three times
+----------------------------------------
+Prompt: The capital of France is
+Temperature: 0.75
+Time Taken: 31152 ms
+Generated Text:
+The capital of France is a major tourist destination, and France has a long history of establishing its own special tourist zones. However, the French authorities have
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+Temperature: 0.5
+Time Taken: 38175 ms
+Generated Text:
+In 1492, Columbus sailed the ocean in the first of 19 large ships, built by the Spanish, and brought it to the Isle of Man. It was built
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+Temperature: 0.75
+Time Taken: 46056 ms
+Generated Text:
+In 1492, Columbus sailed the ocean's largest ship, the Great Lakes, and struck waves in the sand. He made no attempt to sail off.
+
+
+----------------------------------------
+Prompt: def quicksort(arr):
+Temperature: 0.5
+Time Taken: 33384 ms
+Generated Text:
+def quicksort(arr):
+
+class Random extends Random
+
+def __init__ ( self , random , s ):
+
+self ._random =
+----------------------------------------
+Prompt: def quicksort(arr):
+Temperature: 0.75
+Time Taken: 36523 ms
+Generated Text:
+def quicksort(arr): for i in range(arr.size()): if i == range(arr.size()): return (arr[i
+----------------------------------------
+Prompt: The meaning of life is
+Temperature: 0.5
+Time Taken: 41159 ms
+Generated Text:
+The meaning of life is the same as the meaning of the universe. It is the same as the meaning of the universe.
+
+Now, I
+----------------------------------------
+Prompt: The meaning of life is
+Temperature: 0.75
+Time Taken: 32366 ms
+Generated Text:
+The meaning of life is a bit of a tricky one. It's not about a person who's died, but a life they've set aside.
+----------------------------------------
+Prompt: It was the best of times, it was the
+Temperature: 0.5
+Time Taken: 42246 ms
+Generated Text:
+It was the best of times, it was the best of times.
+
+"I was in a good place at the time, I was playing well and I was going
+----------------------------------------
+Prompt: It was the best of times, it was the
+Temperature: 0.75
+Time Taken: 39215 ms
+Generated Text:
+It was the best of times, it was the worst of times. What happened back then, it's not something that you can go back to now."
+
+"I
+----------------------------------------
+Prompt: She looked at him and said,
+Temperature: 0.5
+Time Taken: 39424 ms
+Generated Text:
+She looked at him and said, "I don't know if you're kidding me, but I think I'll come back in seven days."
+
+"
+----------------------------------------
+Prompt: She looked at him and said,
+Temperature: 0.75
+Time Taken: 42551 ms
+Generated Text:
+She looked at him and said, "I'm sorry, but I'm with you."
+
+"Well, it's not a problem, right?" said
+----------------------------------------
+Prompt: E = mc
+Temperature: 0.5
+Time Taken: 39290 ms
+Generated Text:
+E = mc_smooth_pillow_pickup_speed 1
+
+}
+
+}
+
+}
+
+}
+
+----------------------------------------
+Prompt: E = mc
+Temperature: 0.75
+Time Taken: 30523 ms
+Generated Text:
+E = mc_b_h.
+
+}
+
+if (! mc_fault_ca) {
+
+if (
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+Temperature: 0.5
+Time Taken: 39813 ms
+Generated Text:
+The mitochondria is the powerhouse of the body's energy supply. The mitochondria play a key role in the creation of energy, and in the maintenance of our health
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+Temperature: 0.75
+Time Taken: 35725 ms
+Generated Text:
+The mitochondria is the powerhouse of the cell. Any other organelle you can remember is called mitochondria. In fact, mitochondria are the second most important organ
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+Temperature: 0.5
+Time Taken: 35542 ms
+Generated Text:
+The quick brown fox jumps over the edge of the cliff, and the quick brown fox jumps over the edge of the cliff. The quick brown fox jumps over the
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+Temperature: 0.75
+Time Taken: 36841 ms
+Generated Text:
+The quick brown fox jumps over the fence, and we follow him as he rides along.
+
+He's looking for a spot, and I'm not sure
+----------------------------------------
+Prompt: As I walked through the valley of the shadow of death, I
+Temperature: 0.5
+Time Taken: 57640 ms
+Generated Text:
+As I walked through the valley of the shadow of death, I was struck by the sight of the sun shining through the broken glass of the doorway. I looked down, and there was a
+----------------------------------------
+Prompt: As I walked through the valley of the shadow of death, I
+Temperature: 0.75
+Time Taken: 47409 ms
+Generated Text:
+As I walked through the valley of the shadow of death, I heard a great commotion, and I immediately ran to the door of the house. It was a boy, standing on the
+----------------------------------------
+Prompt: In conclusion,
+Temperature: 0.5
+Time Taken: 26993 ms
+Generated Text:
+In conclusion, the report found that the number of incidents of sexual assault on college campuses has increased by nearly 25 percent over the last 20 years
+----------------------------------------
+Prompt: In conclusion,
+Temperature: 0.75
+Time Taken: 27019 ms
+Generated Text:
+In conclusion, the number of people reporting that they are sexually assaulted in the United States is growing and increasing.
+
+The most recent data
+----------------------------------------
+Prompt: for i in range(10):
+Temperature: 0.5
+Time Taken: 36111 ms
+Generated Text:
+for i in range(10):
+
+if i == i:
+
+return False
+
+else :
+
+return True
+
+def __init__
+----------------------------------------
+Prompt: for i in range(10):
+Temperature: 0.75
+Time Taken: 36449 ms
+Generated Text:
+for i in range(10): # if i < 0: # if i = 0: # return if i < 0: # return if i < 0
+----------------------------------------
+Prompt: Roses are red, violets are
+Temperature: 0.5
+Time Taken: 43471 ms
+Generated Text:
+Roses are red, violets are green, and placenta is green.
+
+The red and green placenta are usually the same color, but
+----------------------------------------
+Prompt: Roses are red, violets are
+Temperature: 0.75
+Time Taken: 38667 ms
+Generated Text:
+Roses are red, violets are blue, and blood is red. Blood is red for the first 2 rows, but red for the final 2 rows.
+
+----------------------------------------
+Prompt: The stock market crashed today due to
+Temperature: 0.5
+Time Taken: 36293 ms
+Generated Text:
+The stock market crashed today due to the US government's decision to pull the plug on the system, and the stock market could be down in the next few days
+----------------------------------------
+Prompt: The stock market crashed today due to
+Temperature: 0.75
+Time Taken: 35162 ms
+Generated Text:
+The stock market crashed today due to the release of the first five-year plan for the U.S. economy that was supposed to deliver economic growth.
+
+----------------------------------------
+Prompt: The first law of thermodynamics states that energy cannot be
+Temperature: 0.5
+Time Taken: 40979 ms
+Generated Text:
+The first law of thermodynamics states that energy cannot be produced by any one process. In other words, energy cannot be produced by any process. The second law of thermodynamics states
+----------------------------------------
+Prompt: The first law of thermodynamics states that energy cannot be
+Temperature: 0.75
+Time Taken: 50423 ms
+Generated Text:
+The first law of thermodynamics states that energy cannot be lost after heat is released. Any energy lost must be used up when the temperature drops. If you have a high temperature,
+----------------------------------------
+Prompt: Knock, knock.
+Temperature: 0.5
+Time Taken: 36500 ms
+Generated Text:
+Knock, knock.
+
+(In the same vein, in the original story, the "good" side of the story is that the "
+----------------------------------------
+Prompt: Knock, knock.
+Temperature: 0.75
+Time Taken: 34200 ms
+Generated Text:
+Knock, knock.
+
+"I'm sorry. I'm really sorry."
+
+"I never said that."
+
+"I didn
+----------------------------------------
+Prompt: The Pythagorean theorem states that in a right triangle,
+Temperature: 0.5
+Time Taken: 53841 ms
+Generated Text:
+The Pythagorean theorem states that in a right triangle, the right triangle is the same as the left triangle.
+
+The Pythagorean theorem states that in a right triangle,
+----------------------------------------
+Prompt: The Pythagorean theorem states that in a right triangle,
+Temperature: 0.75
+Time Taken: 48258 ms
+Generated Text:
+The Pythagorean theorem states that in a right triangle, the mean value of the axioms of point R is 1. The Pythagorean theorem is also true for the first
+----------------------------------------
+Prompt: In a hole in the ground there lived a
+Temperature: 0.5
+Time Taken: 37069 ms
+Generated Text:
+In a hole in the ground there lived a group of people who lived in a tent, and then they'd go to the bathroom and take the shower.
+
+"
+----------------------------------------
+Prompt: In a hole in the ground there lived a
+Temperature: 0.75
+Time Taken: 37001 ms
+Generated Text:
+In a hole in the ground there lived a ghost, a white dog that had been given so much love by the man who had given it to her. The ghost's
+----------------------------------------

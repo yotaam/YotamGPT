@@ -1,0 +1,544 @@
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 1
+Time Taken: 136005 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a man who was a man of great courage and great courage, and who was a man of great courage and great courage, and
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 5
+Time Taken: 125411 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a woman. A man, and he was the only one in a family. He was the only one in his family, and
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 10
+Time Taken: 121326 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a man, a man that had been born from a man of blood and death and that had died on the cross of the sea
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 20
+Time Taken: 109090 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a man of the gods, a man of all gods of all things. The gods were not his gods, but those he called
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 30
+Time Taken: 112679 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a woman called Thee, and she was a daughter of Thee, and a wife of Shebe. When Thee became
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 50
+Time Taken: 106450 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a god, the One Power, in a planet whose planet I was born through and who, from that day, I shall take
+----------------------------------------
+Prompt: Once upon a time, in a land far, far away, there lived a
+K Value: 100
+Time Taken: 115585 ms
+Generated Text:
+Once upon a time, in a land far, far away, there lived a man in the village of Laval. He was a tall man with a blue bandage on his chin, but he was
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 1
+Time Taken: 95809 ms
+Generated Text:
+To be or not to be, that is the question.
+
+The question is, what is the difference between a "good" and a "bad" person?
+
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 5
+Time Taken: 95526 ms
+Generated Text:
+To be or not to be, that is the nature of the universe, and the nature of things is the nature of things; and if it is not, that is the
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 10
+Time Taken: 83823 ms
+Generated Text:
+To be or not to be, that is the question that will determine what it means to be human. It is the question of what it means to be human that we are
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 20
+Time Taken: 100486 ms
+Generated Text:
+To be or not to be, that is the only thing that matters to me. The only thing that matters is that I'm able to live. That's where everything else
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 30
+Time Taken: 99558 ms
+Generated Text:
+To be or not to be, that is the only kind of state we will ever need to govern. (It may be the same in each state, as elsewhere.)
+
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 50
+Time Taken: 95557 ms
+Generated Text:
+To be or not to be, that is the same person who had been arrested, searched, questioned, beaten up (with a taser) and even the defendant who was
+----------------------------------------
+Prompt: To be or not to be, that is the
+K Value: 100
+Time Taken: 115685 ms
+Generated Text:
+To be or not to be, that is the first thing that must be dealt with in this book on the subject of the church… He says at one point that he would
+----------------------------------------
+Prompt: The capital of France is
+K Value: 1
+Time Taken: 88490 ms
+Generated Text:
+The capital of France is the capital of the French Republic, and the capital of the French Republic is the capital of the French Republic.
+
+The
+----------------------------------------
+Prompt: The capital of France is
+K Value: 5
+Time Taken: 94023 ms
+Generated Text:
+The capital of France is the French capital. In the year 2000, the capital of France was the capital of Europe, and in the year 2000 the
+----------------------------------------
+Prompt: The capital of France is
+K Value: 10
+Time Taken: 105370 ms
+Generated Text:
+The capital of France is home to many of the world's largest and busiest airports.
+
+In Paris, the Paris Airports Authority says its airports
+----------------------------------------
+Prompt: The capital of France is
+K Value: 20
+Time Taken: 110836 ms
+Generated Text:
+The capital of France is not far from Lyon, but the capital has already lost nearly a third of its population. It is not uncommon to hear that
+----------------------------------------
+Prompt: The capital of France is
+K Value: 30
+Time Taken: 95118 ms
+Generated Text:
+The capital of France is at the center of the dispute over the fate of an island that will fall within a treaty of the European Union to which the
+----------------------------------------
+Prompt: The capital of France is
+K Value: 50
+Time Taken: 95945 ms
+Generated Text:
+The capital of France is already a city with a high concentration of Christians. The church is still a vibrant and thriving force on the French Riviera,
+----------------------------------------
+Prompt: The capital of France is
+K Value: 100
+Time Taken: 91432 ms
+Generated Text:
+The capital of France is now an almost total wilderness, and much has changed since the time of Charles VI. The French army has grown like ants,
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 1
+Time Taken: 95388 ms
+Generated Text:
+In 1492, Columbus sailed the ocean to the west, and in 1520, he sailed the ocean to the east.
+
+The first ship to reach the
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 5
+Time Taken: 100241 ms
+Generated Text:
+In 1492, Columbus sailed the ocean to find the first known ship.
+
+The first vessel to reach America was called the "Pantheons." It
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 10
+Time Taken: 108897 ms
+Generated Text:
+In 1492, Columbus sailed the ocean's longest voyage. In his 1832 autobiography, Columbus told of his trip to New York and New England in 1688,
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 20
+Time Taken: 99732 ms
+Generated Text:
+In 1492, Columbus sailed the ocean from the Ohio to the United States, the third voyage to the East Indies. In the 1620s, Columbus sailed to
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 30
+Time Taken: 97919 ms
+Generated Text:
+In 1492, Columbus sailed the ocean and discovered that "A land that has no inhabitants" has no inhabitants. They also found no other place in the world,
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 50
+Time Taken: 105069 ms
+Generated Text:
+In 1492, Columbus sailed the ocean to Europe where he found a "southern frontier."[30]
+
+In 1737, King Richard II ordered the return
+----------------------------------------
+Prompt: In 1492, Columbus sailed the ocean
+K Value: 100
+Time Taken: 117057 ms
+Generated Text:
+In 1492, Columbus sailed the ocean as far east as the east coast of Canada, arriving in Newfoundland in the spring of 1496. His voyage was conducted with
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 1
+Time Taken: 98145 ms
+Generated Text:
+def quicksort(arr): # This is the number of iterations of quicksort. # This is the number of iterations of quicksort. #
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 5
+Time Taken: 104424 ms
+Generated Text:
+def quicksort(arr): if len(arr) > 0: return 0 elif len(arr) > 1: return 1 end if not len
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 10
+Time Taken: 93811 ms
+Generated Text:
+def quicksort(arr):
+
+for i in xrange(1, 1):
+
+return i
+
+def quicksort(arr):
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 20
+Time Taken: 98022 ms
+Generated Text:
+def quicksort(arr):
+
+qn(arr) > 0
+
+end
+
+for i in range(0..3): for k
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 30
+Time Taken: 90941 ms
+Generated Text:
+def quicksort(arr): # if a line of code is running we can't read from it to the file, so we return 0 # and wait
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 50
+Time Taken: 94253 ms
+Generated Text:
+def quicksort(arr): pass (exercise_exercise) quicksort(0.001) quicksort(1.001) qu
+----------------------------------------
+Prompt: def quicksort(arr):
+K Value: 100
+Time Taken: 90352 ms
+Generated Text:
+def quicksort(arr): #!/usr/bin/openssl -qa: # parse error, possibly "foo" and try (arg: int
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 1
+Time Taken: 88583 ms
+Generated Text:
+The meaning of life is not the same as the meaning of death.
+
+The meaning of life is not the same as the meaning of death.
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 5
+Time Taken: 90250 ms
+Generated Text:
+The meaning of life is to make the world better. We can see the benefits that come from doing something that we love."
+
+"I think
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 10
+Time Taken: 82413 ms
+Generated Text:
+The meaning of life is a complex and multifaceted issue and it is difficult for us to define it adequately. For example, the question "What
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 20
+Time Taken: 90757 ms
+Generated Text:
+The meaning of life is to understand how you are in a situation where everything that you have is going to turn out to be wrong. You are the
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 30
+Time Taken: 89192 ms
+Generated Text:
+The meaning of life is to live in harmony with the universe and the sun, and the planets may be perceived at various times in various ways, but
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 50
+Time Taken: 111981 ms
+Generated Text:
+The meaning of life is not of course to "find" or "discover". What you find yourself getting in the morning is not of your choosing
+----------------------------------------
+Prompt: The meaning of life is
+K Value: 100
+Time Taken: 80342 ms
+Generated Text:
+The meaning of life is to love and respect others; yet in Christian ethics we see there is no love, no respect. In Christian life we see
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 1
+Time Taken: 98484 ms
+Generated Text:
+It was the best of times, it was the worst of times.
+
+"I'm not going to lie, I'm not going to lie. I'm not going
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 5
+Time Taken: 94019 ms
+Generated Text:
+It was the best of times, it was the best of times," said Mr. Trump, who had a meeting with the Russian president at the G-7 summit in Sicily
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 10
+Time Taken: 98975 ms
+Generated Text:
+It was the best of times, it was the best of times."
+
+But in the end, the best is always what comes out of a good night's sleep.
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 20
+Time Taken: 99129 ms
+Generated Text:
+It was the best of times, it was the worst of times. It was like there was no tomorrow.
+
+"That's my life."
+
+The man who
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 30
+Time Taken: 102495 ms
+Generated Text:
+It was the best of times, it was the worst of times, but I thought that it could be a good thing for the club.
+
+"Hopefully this time I
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 50
+Time Taken: 123513 ms
+Generated Text:
+It was the best of times, it was the best of seasons, but with bad injuries."
+
+Nolan continued: "It's not about when you can't play
+----------------------------------------
+Prompt: It was the best of times, it was the
+K Value: 100
+Time Taken: 106024 ms
+Generated Text:
+It was the best of times, it was the worst of times .
+
+The best days were like those where there was no tomorrow. By the end of those days,
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 1
+Time Taken: 99947 ms
+Generated Text:
+She looked at him and said, "I'm sorry, but I'm not going to be able to do this."
+
+"I'm not going to
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 5
+Time Taken: 97693 ms
+Generated Text:
+She looked at him and said, "That's a great question, I'm going to try to get the answer out of you. If I'm going to
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 10
+Time Taken: 94922 ms
+Generated Text:
+She looked at him and said, "How much time have you given?"
+
+"Well, about three hours."
+
+"I don't know.
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 20
+Time Taken: 93892 ms
+Generated Text:
+She looked at him and said, 'It won't happen.'
+
+"I'm not a bad guy. I know what it's like to be an
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 30
+Time Taken: 98433 ms
+Generated Text:
+She looked at him and said, 'There are no angels!' She went up and said, 'He said he was not here.' Then he took her arm
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 50
+Time Taken: 91076 ms
+Generated Text:
+She looked at him and said, "I've got to tell you what happened. If I didn't, the last thing I'd want would be to spend
+----------------------------------------
+Prompt: She looked at him and said,
+K Value: 100
+Time Taken: 92746 ms
+Generated Text:
+She looked at him and said, in a tone so low for her that he wondered if she was just mad, or one of those weird people she doesn't
+----------------------------------------
+Prompt: E = mc
+K Value: 1
+Time Taken: 82750 ms
+Generated Text:
+E = mc_dust2_dust2_dust2_dust2_dust2_dust2_dust2_dust2_
+----------------------------------------
+Prompt: E = mc
+K Value: 5
+Time Taken: 88311 ms
+Generated Text:
+E = mc_mesh_particles_b_1.mdl; } #define FNV_LAYOUT_B
+----------------------------------------
+Prompt: E = mc
+K Value: 10
+Time Taken: 80225 ms
+Generated Text:
+E = mc;
+
+}
+
+} else {
+
+return false ;
+
+}
+
+}
+
+}
+
+
+----------------------------------------
+Prompt: E = mc
+K Value: 20
+Time Taken: 83442 ms
+Generated Text:
+E = mc_f_x;
+
+}
+ [B]XOR_X = mc_f_x;
+
+
+----------------------------------------
+Prompt: E = mc
+K Value: 30
+Time Taken: 85337 ms
+Generated Text:
+E = mc_xl_m_2 * mc_xl_m_2;
+
+}
+
+// -
+
+----------------------------------------
+Prompt: E = mc
+K Value: 50
+Time Taken: 94434 ms
+Generated Text:
+E = mc1.5 / mc2 / 0.15. If you select 1 for 'numeric', that will convert to '
+----------------------------------------
+Prompt: E = mc
+K Value: 100
+Time Taken: 91143 ms
+Generated Text:
+E = mc.m_franzo_sconenum + 128, s = 0, d = 128, fl = 0);
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 1
+Time Taken: 101803 ms
+Generated Text:
+The mitochondria is the powerhouse of the body's energy production. It is the source of energy for the body's metabolism, and it is the source of the body
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 5
+Time Taken: 97136 ms
+Generated Text:
+The mitochondria is the powerhouse of the body, and the energy source is the mitochondria. It's important that you understand that the mitochondria have a role in
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 10
+Time Taken: 100217 ms
+Generated Text:
+The mitochondria is the powerhouse of the body's energy-generating machinery; this process, in turn, has the power to turn the entire organism into a living
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 20
+Time Taken: 101277 ms
+Generated Text:
+The mitochondria is the powerhouse of the human brain, one of the most important and most important factors to develop and maintain a healthy brain. It's the one of
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 30
+Time Taken: 96324 ms
+Generated Text:
+The mitochondria is the powerhouse of the cells and the primary source of energy for the body. The mitochondria are an integral part of the body's metabolic machinery and
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 50
+Time Taken: 104945 ms
+Generated Text:
+The mitochondria is the powerhouse of the body, so of course the mitochondria are involved in the energy system.
+
+So we have a set of things going
+----------------------------------------
+Prompt: The mitochondria is the powerhouse of the
+K Value: 100
+Time Taken: 89069 ms
+Generated Text:
+The mitochondria is the powerhouse of the body. All three of them, and the human liver, require a host, and the lungs are not known to support vital
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 1
+Time Taken: 98014 ms
+Generated Text:
+The quick brown fox jumps over the fence and runs into the bushes.
+
+"I'm going to kill you!"
+
+"I'm going to kill
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 5
+Time Taken: 88913 ms
+Generated Text:
+The quick brown fox jumps over the fence and takes off in a straight line across a field of grass, then follows the same line as he does, and then
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 10
+Time Taken: 88751 ms
+Generated Text:
+The quick brown fox jumps over the railing, looking down. "I'm sorry, I can't do any of that," he says, looking up at the
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 20
+Time Taken: 98291 ms
+Generated Text:
+The quick brown fox jumps over the edge and takes off with the first few steps. Then he leaps forward and leaps back into the air. "I'm gonna
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 30
+Time Taken: 103075 ms
+Generated Text:
+The quick brown fox jumps over the small fox, and he quickly gets back in his pack, holding him up, and putting his paws on his forehead, as
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 50
+Time Taken: 89420 ms
+Generated Text:
+The quick brown fox jumps over the two and throws it a few feet back and then hits the ground; it's gone, so they don't get that high
+----------------------------------------
+Prompt: The quick brown fox jumps over the
+K Value: 100
+Time Taken: 90353 ms
+Generated Text:
+The quick brown fox jumps over the counter, letting her hair fall on top of it (she doesn't need to, because she's already doing that much so
+----------------------------------------
