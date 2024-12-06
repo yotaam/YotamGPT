@@ -113,6 +113,7 @@ public class MultiHeadAttention {
         Matrix output = this.outProj.forward(concatAttention);
 
         return output; 
+    }
     
     private Matrix[] splitHeads(Matrix x) {
         // Split x into numHeads 
