@@ -130,7 +130,7 @@ Supports instant user interaction, smooth UX, and full mobile compatibility.
 
 ## 👤 Author
 Built by [Yotam Twersky](https://yotamtwersky.com), with the goal of understanding transformers inside out and demonstrating backend fluency.
-Credit to Stanley Su, my co-creator for the linear algebra library and the original version of this project.
+Credit to Stanley Su, with whom I co-built the linear algebra library as the original version of this project.
 
 ---
 
