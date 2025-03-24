@@ -11,9 +11,9 @@
     <name>GPT API</name>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.release>17</maven.compiler.release>
     </properties>
+
 
     <dependencies>
         <!-- Spark Java -->
@@ -43,7 +43,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>GPTServer</mainClass>
+                            <mainClass>com.example.gpt.GPTServer</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

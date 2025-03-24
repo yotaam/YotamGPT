@@ -1,4 +1,5 @@
 package com.example.gpt;
+import static spark.Spark.*;
 
 public class GPTServer {
     public static void main(String[] args) {

@@ -14,7 +14,11 @@ public class GPTController {
     }
 
     private void initRoutes() {
-
+        get("/test", (req, res) -> {
+            System.out.println("🔥 /test endpoint hit!");
+            return "Server is working!";
+        });
+        
         post("/generate", (req, res) -> {
             res.type("application/json");
 
