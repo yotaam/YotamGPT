@@ -1,188 +1,146 @@
-# SimpleLLMJava: From-Scratch GPT-2 in Java with API Inference
+# YotamGPT: From-Scratch GPT-2 in Java with Live API
 
-Welcome to **SimpleLLMJava** — a from-scratch implementation of a GPT-2-like transformer in pure Java, complete with Byte Pair Encoding (BPE) tokenization, multi-head attention, and a full backend API for real-time text generation.
-
-This project is both a technical feat and a playground: build, understand, and deploy large language models... without ever touching Python. 💡
+**YotamGPT** is a fully custom implementation of a GPT-2-like transformer model written entirely in Java, complete with Byte Pair Encoding (BPE) tokenization, multi-head attention, and a lightweight REST API for real-time text generation. It runs on Fly.io and powers a hosted frontend at [yotamtwersky.com/gpt](https://yotamtwersky.com/gpt).
 
 ---
 
 ## 🚀 What It Does
 
-- Implements the full GPT-2 architecture from scratch (no ML libraries)
+- Implements a from-scratch GPT-2-style architecture (no ML libraries)
 - Includes:
   - Token + positional embeddings
-  - Multi-head attention
-  - Feed-forward blocks
-  - Layer normalization
-  - BPE tokenizer with vocab merging
+  - Multi-head self-attention
+  - Feed-forward network and LayerNorm
+  - BPE tokenizer using encoder.json and vocab.bpe
 - Supports:
-  - Text generation via temperature sampling
+  - Temperature sampling
   - Top-K filtering
-  - Prompt-to-text API via REST
+  - Real-time inference through REST API (Spark Java)
+- Deploys as a cloud API via Fly.io
 
 ---
 
 ## 🧠 Why Java?
-
-Why not? This project was built to deeply understand transformers by implementing everything manually, from math to memory. Also, it's fun to flex Java for ML infrastructure.
+This project is a deliberate deep dive into transformer internals, with the challenge of doing everything manually — from linear algebra to attention — using just Java. It also showcases backend deployment capabilities.
 
 ---
 
 ## 🗂 Project Structure
-
 ```
 SimpleLLMJava/
-├── src/
-│   ├── GPTModel.java             # Core transformer logic
-│   ├── BytePairEncoding.java    # BPE tokenizer
-│   ├── GPTService.java          # Wrapper for inference
-│   ├── GPTController.java       # Spark API endpoints
-│   ├── GPTServer.java           # Entry point
-│   ├── ...                      # All other core math/model classes
-├── gpt2_weights.json            # Pretrained weights
+├── src/main/java/com/example/gpt/
+│   ├── GPTModel.java             # Transformer core
+│   ├── BytePairEncoding.java    # Tokenizer
+│   ├── GPTService.java          # Inference engine
+│   ├── GPTController.java       # REST API routes
+│   ├── GPTServer.java           # Entry point + CORS + server
+├── gpt2_weights.json            # Model weights
 ├── models/gpt2/
-│   ├── encoder.json             # BPE encoder
-│   └── vocab.bpe                # BPE merge rules
-├── pom.xml                      # Maven config
-├── target/                      # Maven output
-└── start-api.sh                 # Optional helper script
+│   ├── encoder.json
+│   └── vocab.bpe
+├── pom.xml                      # Maven build config
+├── Dockerfile                   # Deployment config
+└──fly.toml                     # Fly.io setup
 ```
 
 ---
 
 ## ⚙️ Getting Started
 
-### 1. Clone & Install
-
+### 1. Clone & Set Up
 ```bash
 git clone https://github.com/YOUR_USERNAME/SimpleLLMJava.git
 cd SimpleLLMJava
 ```
 
-Make sure you have:
-- Java JDK 17+ (you can use 23 as tested)
-- Maven installed
+### 2. Requirements
+- Java 17+ (JDK 23 recommended)
+- Maven
 
-### 2. Add GPT-2 Weights & BPE Files
-
-Place these files in the project root:
+### 3. Add Model Files
+Place the following in the root:
 - `gpt2_weights.json`
 - `models/gpt2/encoder.json`
 - `models/gpt2/vocab.bpe`
 
-### 3. Build the Project
-
+### 4. Build and Run
 ```bash
 mvn clean package
+java -Xmx6g -jar target/gpt-api-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-### 4. Run the Server
+Note: At least 6GB RAM is required due to model size.
 
+---
+
+## ☁️ Deployment
+
+### ✅ Live Demo
+API is deployed at: `https://api.yotamtwersky.com/generate`
+Frontend is at: [yotamtwersky.com/gpt](https://yotamtwersky.com/gpt)
+
+### Fly.io Steps:
 ```bash
-java -Xmx8g -jar target/gpt-api-1.0-SNAPSHOT-jar-with-dependencies.jar
+fly launch
+fly deploy
 ```
-Note, setting memory to 8 GB (with -Xmx8g) is required for loading the weights.
+Ensure `JAVA_OPTS="-Xmx6g"` in Dockerfile and `fly.toml` has 8GB memory.
 
 ---
 
 ## 🔥 Using the API
 
-Once running, the API is live at:
 ```
-POST http://localhost:4567/generate
+POST https://api.yotamtwersky.com/generate
 ```
 
-**Example Request**
+**Request Body:**
 ```json
 {
-  "prompt": "Once upon a time",
-  "maxTokens": 30,
+  "prompt": "The future of AI is",
+  "maxTokens": 20,
   "temperature": 0.8,
-  "topK": 50
+  "topK": 40
 }
 ```
 
-**Example Response**
-```json
-{
-  "generatedText": "Once upon a time, there lived a very curious fox who...",
-  "inferenceTimeSeconds": 1.42
-}
-```
-
-You can test it directly via:
+**Example cURL:**
 ```bash
-curl -X POST http://localhost:4567/generate \
+curl -X POST https://api.yotamtwersky.com/generate \
      -H "Content-Type: application/json" \
      -d '{"prompt":"The mitochondria is the","maxTokens":20,"temperature":0.9,"topK":40}'
 ```
 
 ---
 
-## ☁️ Deployment
-
-### 🛫 Deploy with Fly.io (Coming Soon)
-
-You can easily deploy this project using [Fly.io](https://fly.io):
-
-1. Install Fly CLI
-```bash
-brew install flyctl
-```
-
-2. Create `fly.toml` (or let Fly do it)
-```bash
-fly launch
-```
-
-3. Deploy:
-```bash
-fly deploy
-```
-
-*(We recommend setting `Xmx` to 4g or more in your `Dockerfile` or `fly.toml`)*
-
-### 🔧 Replit / Render Setup
-
-- Replit: Create a Java Repl, upload files, update run command to:
-```bash
-java -Xmx4g -jar target/gpt-api-1.0-SNAPSHOT-jar-with-dependencies.jar
-```
-
-- Render: Deploy with a `Dockerfile` (see `Dockerfile` example coming soon)
+## 🌐 HTML Frontend (gpt.html)
+Single-page frontend with loading indicator, hosted at `/gpt`. 
+Supports instant user interaction, smooth UX, and full mobile compatibility.
 
 ---
 
-## ✨ Bonus Features
-
-- Supports Top-K Sampling
-- Temperature control
-- Timing / inference logs
-- Easily extensible for BLEU/ROUGE scoring
-
----
-
-## 📖 Credits
-
-Built by [Yotam Twersky](https://github.com/YotamTwersky) to explore transformer internals from scratch.
+## ✨ Highlights
+- ✅ No external ML libs
+- ✅ Full transformer, BPE, and top-k logic written by hand
+- ✅ Real backend deployed in production
+- ✅ Elegant browser frontend
+- ✅ CORS-enabled for real apps
 
 ---
 
-## 📎 License
-
-MIT. Use it, break it, remix it, learn from it.
+## 👤 Author
+Built by [Yotam Twersky](https://yotamtwersky.com), with the goal of understanding transformers inside out and demonstrating backend fluency.
 
 ---
 
 ## 🧵 TL;DR
-
-- ✅ Pure Java GPT-2
-- ✅ Fully custom tokenizer
-- ✅ REST API with generation
-- ✅ Local or hosted
-- ✅ Actually works
-
-What are you waiting for? Start generating.
+- ⚙️ GPT-2 in Java
+- 🌐 REST API w/ generation
+- ☁️ Live at `api.yotamtwersky.com`
+- 💻 HTML frontend at `yotamtwersky.com/gpt`
+- 🔥 Actually works — go try it.
 
 ---
 
+## 📎 License
+MIT — use freely, learn deeply.
