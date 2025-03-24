@@ -139,7 +139,6 @@ Credit to Stanley Su, with whom I co-built the linear algebra library as the ori
 - 🌐 REST API w/ generation
 - ☁️ Live at `api.yotamtwersky.com`
 - 💻 HTML frontend at `yotamtwersky.com/gpt`
-- 🔥 Actually works — go try it.
 
 ---
 
