@@ -15,29 +15,18 @@ public class GPTModel {
         this.embDim = embDim;
         this.contextLength = contextLength;
         this.numLayers = numLayers;
-
-        // Initialize token embeddings: Shape (vocabSize, embDim)
         this.tokenEmbedding = Matrix.random(vocabSize, embDim, 0.0, 0.02);
-
-        // Initialize positional embeddings: Shape (contextLength, embDim)
         this.positionEmbedding = Matrix.random(contextLength, embDim, 0.0, 0.02);
-
-        // Initialize Transformer blocks
         this.transformerBlocks = new TransformerBlock[numLayers];
         for (int i = 0; i < numLayers; i++) {
             this.transformerBlocks[i] = new TransformerBlock(embDim, numHeads, contextLength, dropoutRate);
         }
-
-        // Initialize final LayerNorm
         this.finalLayerNorm = new LayerNorm(embDim);
-
-        // Initialize output projection layer
         this.outputProjection = new Linear(embDim, vocabSize);
     }
     
 
     public Matrix forward(int[] tokenIndices) {
-        // Input: tokenIndices of shape (seqLength)
         int seqLength = tokenIndices.length;
 
         // Check if seqLength exceeds contextLength
@@ -45,25 +34,20 @@ public class GPTModel {
             throw new IllegalArgumentException("Sequence length exceeds model's context length.");
         }
 
-        // Get token embeddings
-        Matrix tokenEmbeddings = getTokenEmbeddings(tokenIndices); // Shape: (seqLength, embDim)
-
-        // Get positional embeddings
-        Matrix positionalEmbeddings = getPositionalEmbeddings(seqLength); // Shape: (seqLength, embDim)
-
-        // Combine embeddings
-        Matrix x = tokenEmbeddings.add(positionalEmbeddings); // Shape: (seqLength, embDim)
+        Matrix tokenEmbeddings = getTokenEmbeddings(tokenIndices);
+        Matrix positionalEmbeddings = getPositionalEmbeddings(seqLength);
+        Matrix x = tokenEmbeddings.add(positionalEmbeddings); 
 
         // Pass through Transformer blocks
         for (TransformerBlock block : transformerBlocks) {
-            x = block.forward(x); // Shape: (seqLength, embDim)
+            x = block.forward(x);
         }
 
         // Apply final LayerNorm
-        x = finalLayerNorm.forward(x); // Shape: (seqLength, embDim)
+        x = finalLayerNorm.forward(x); 
 
         // Output projection to vocabulary size
-        Matrix logits = x.matMul(Matrix.transpose(tokenEmbedding)); // Shape: (seqLength, vocabSize)
+        Matrix logits = x.matMul(Matrix.transpose(tokenEmbedding));
 
         return logits;
     }
@@ -156,8 +140,6 @@ public class GPTModel {
         } catch (Exception e) {
             System.err.println("An error occurred while loading the model weights: " + e.getMessage());
             e.printStackTrace();
-            // Optionally, you can proceed without throwing the exception
-            // Or re-initialize the model weights randomly
         }
     }
     
