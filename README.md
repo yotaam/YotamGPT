@@ -1,6 +1,6 @@
 # YotamGPT: From-Scratch GPT-2 in Java with Live API
 
-**YotamGPT** is a fully custom implementation of a GPT-2-like transformer model written entirely in Java, complete with Byte Pair Encoding (BPE) tokenization, multi-head attention, and a lightweight REST API for real-time text generation. It runs on Fly.io and powers a hosted frontend at [yotamtwersky.com/gpt](https://yotamtwersky.com/gpt) (deprecated backend due to pricing).
+**YotamGPT** is a fully custom implementation of a GPT-2-like transformer model written entirely in Java, complete with Byte Pair Encoding (BPE) tokenization, multi-head attention, and a lightweight REST API for real-time text generation. It runs on Fly.io and powers a hosted frontend at [yotamtwersky.com/gpt](https://yotamtwersky.com/gpt) (deprecated backend hosting due to pricing).
 
 ---
 
